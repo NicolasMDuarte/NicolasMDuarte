@@ -29,8 +29,8 @@ Meu nome é Nícolas, sou estudante de TI no Colégio Técnico de Campinas (COTU
 ### Minhas estatísticas
 <div>
   <a href="https://github.com/NicolasMDuarte">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielVScalese&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVScalese&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasMDuarte&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMDuarte&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
 ##
