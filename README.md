@@ -1,7 +1,7 @@
-# Olá! 👋
-Meu nome é Nícolas, sou estudante de TI no Colégio Técnico de Campinas (COTUCA), e amo desenvolver jogos.
+# Hi there! 👋
+My name is Nícolas, I'm an IT student at UNICAMP's Technical High School (COTUCA), and I love developing games.
 
-### Linguagens e ferramentas que já usei: 
+### Languages and tools I've used: 
   <div style="display: inline_block"><br>
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -16,7 +16,7 @@ Meu nome é Nícolas, sou estudante de TI no Colégio Técnico de Campinas (COTU
 
 ## 
 
-### Minhas linguagens e ferramentas favoritas: 
+### My favorite languages and tools: 
    <div style="display: inline_block"><br>
     <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -26,7 +26,7 @@ Meu nome é Nícolas, sou estudante de TI no Colégio Técnico de Campinas (COTU
   
 ##
 
-### Minhas estatísticas
+### My statistics
 <div>
   <a href="https://github.com/NicolasMDuarte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasMDuarte&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
