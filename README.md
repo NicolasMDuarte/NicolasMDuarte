@@ -1,5 +1,5 @@
 # Hi there! 👋
-My name is Nícolas, I studied IT at UNICAMP's Technical High School (COTUCA), and I love developing games.
+My name is Nícolas, I studied IT at UNICAMP Technical High School (COTUCA), and I love developing games.
 
 ### Languages and tools I've used: 
   <div style="display: inline_block"><br>
